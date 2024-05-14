@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715445102 source:d:\Савелий\laba3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
